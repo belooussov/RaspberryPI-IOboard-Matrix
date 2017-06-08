@@ -5,3 +5,6 @@ build:
 
 run:
 	./out
+
+clean:
+	rm -rf ./out

@@ -1,3 +1,5 @@
+/* Oh, surprise, we're using Shift library!!!!! */
+/* http://wiringpi.com/reference/shift-library/ */
 #include <wiringPi.h>
 #include <stdio.h>
 int SER = 12 ;
